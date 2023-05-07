@@ -38,11 +38,11 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # LINKS
 
-<a href = "https://geniusrks1.github.io/Alarm_Clock/)"> <b>CODE</b> </a> <br>
+<a href = "https://geniusrks1.github.io/Alarm_Clock/"> <b> Hosted Link</b> </a> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
-<strong>Connect With Me @</strong>
+<strong>Connect With Me @Linkedin</strong>
 
 <p align="center">
 
