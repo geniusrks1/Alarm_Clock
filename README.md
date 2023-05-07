@@ -46,7 +46,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rohit-kumar-483091161/"><img src="https://img.shields.io/badge/-Maanil%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohit-kumar-483091161/"> Rohit Kumar</a>
 
 
 </p>
